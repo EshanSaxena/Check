@@ -1,0 +1,20 @@
+inline element-> starts from same line. e.g., span
+block level element-> starts from new line. e.g., p
+
+Every tag has its own weight
+
+
+
+Heading
+Image-> alternate
+Link-> a href, target="_blank"
+Image&Link
+Horizontal Line
+Break line
+List->Ordered List, Unordered List, Descriptive List
+Comments
+
+Assignment(Create your own page)
+Name on top
+Image
+Contents 
